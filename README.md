@@ -6,6 +6,9 @@ I'm Julien, a passionate software engineer and open-source contributor.
 
 If you like numbers, here are some of them.
 
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=julienloizelet&show_icons=true&include_all_commits=true&theme=algolia&rank_icon=github" alt="Julien's github stats" /> 
 
 <a href="https://wakatime.com/@okaeli">
