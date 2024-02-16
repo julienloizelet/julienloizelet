@@ -14,19 +14,19 @@ I'm Julien, a passionate software engineer and open-source contributor.
 I contribute, sometimes even as main maintainer, to some of their projects:
 
 <a href="https://github.com/crowdsecurity/php-remediation-engine">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=crowdsecurity&repo=php-remediation-engine&theme=algolia"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=crowdsecurity&repo=php-remediation-engine&theme=github_dark"/>
 </a>
 
 <a href="https://github.com/crowdsecurity/python-capi-sdk">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=crowdsecurity&repo=python-capi-sdk&theme=algolia"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=crowdsecurity&repo=python-capi-sdk&theme=github_dark"/>
 </a>
 
 <a href="https://github.com/crowdsecurity/magento-cs-extension">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=crowdsecurity&repo=magento-cs-extension&theme=algolia"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=crowdsecurity&repo=magento-cs-extension&theme=github_dark"/>
 </a>
 
 <a href="https://github.com/crowdsecurity/cs-wordpress-bouncer">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=crowdsecurity&repo=cs-wordpress-bouncer&theme=algolia"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=crowdsecurity&repo=cs-wordpress-bouncer&theme=github_dark"/>
 </a>
 
 ---
@@ -40,19 +40,19 @@ I contribute, sometimes even as main maintainer, to some of their projects:
 I'm the maintainer of some DDEV's add-ons:
 
 <a href="https://github.com/julienloizelet/ddev-playwright">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=julienloizelet&repo=ddev-playwright&theme=algolia"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=julienloizelet&repo=ddev-playwright&theme=github_dark"/>
 </a>
 
 <a href="https://github.com/ddev/ddev-mongo">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ddev&repo=ddev-mongo&theme=algolia"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ddev&repo=ddev-mongo&theme=github_dark"/>
 </a>
 
 <a href="https://github.com/ddev/ddev-redis-commander">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ddev&repo=ddev-redis-commander&theme=algolia"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ddev&repo=ddev-redis-commander&theme=github_dark"/>
 </a>
 
 <a href="https://github.com/ddev/github-action-add-on-test">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ddev&repo=github-action-add-on-test&theme=algolia"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ddev&repo=github-action-add-on-test&theme=github_dark"/>
 </a>
 
 ---
