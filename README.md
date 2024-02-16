@@ -15,8 +15,7 @@ I contribute, sometimes even as main maintainer, to some of their projects:
 
 
 <a href="https://github.com/crowdsecurity/php-cs-bouncer">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?
-username=crowdsecurity&repo=php-cs-bouncer&theme=github_dark"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=crowdsecurity&repo=php-cs-bouncer&theme=github_dark"/>
 </a>
 
 <a href="https://github.com/crowdsecurity/php-remediation-engine">
@@ -24,8 +23,7 @@ username=crowdsecurity&repo=php-cs-bouncer&theme=github_dark"/>
 </a>
 
 <a href="https://github.com/crowdsecurity/cs-magento-bouncer">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?
-username=crowdsecurity&repo=cs-magento-bouncer&theme=github_dark"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=crowdsecurity&repo=cs-magento-bouncer&theme=github_dark"/>
 </a>
 
 <a href="https://github.com/crowdsecurity/cs-wordpress-bouncer">
@@ -41,8 +39,7 @@ username=crowdsecurity&repo=cs-magento-bouncer&theme=github_dark"/>
 </a>
 
 <a href="https://github.com/crowdsecurity/cs-whm-plugin">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?
-username=crowdsecurity&repo=cs-whm-plugin&theme=github_dark"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=crowdsecurity&repo=cs-whm-plugin&theme=github_dark"/>
 </a>
 
 
