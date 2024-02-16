@@ -2,42 +2,6 @@
 
 I'm Julien, a passionate software engineer and open-source contributor. 
 
-### 📈 Some Stats
-
-If you like numbers, here are some of them.
-
-<!--START_SECTION:waka-->
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Tokyo
-
-💬 Programming Languages: 
-Python                   6 hrs 38 mins       ██████████░░░░░░░░░░░░░░░   40.57 % 
-JavaScript               2 hrs 43 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.67 % 
-YAML                     2 hrs 16 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.95 % 
-Markdown                 1 hr 58 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.07 % 
-Shell Script             1 hr 4 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   06.57 % 
-
-🔥 Editors: 
-PyCharm                  10 hrs 21 mins      ████████████████░░░░░░░░░   63.37 % 
-PhpStorm                 3 hrs 9 mins        █████░░░░░░░░░░░░░░░░░░░░   19.28 % 
-VS Code                  2 hrs 50 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.35 % 
-
-💻 Operating System: 
-Linux                    13 hrs 30 mins      █████████████████████░░░░   82.65 % 
-Mac                      2 hrs 50 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.35 % 
-```
-
-
- Last Updated on 16/02/2024 07:35:56 UTC
-<!--END_SECTION:waka-->
-
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=julienloizelet&show_icons=true&include_all_commits=true&theme=algolia&rank_icon=github" alt="Julien's github stats" /> 
-
-<a href="https://wakatime.com/@okaeli">
-  <img align="center" src="https://github-readme-stats-julien-loizelets-projects.vercel.app/api/wakatime?username=okaeli&layout=compact&theme=github_dark" />
-</a>
 
 ### 🔧 Open sources projects I'm part of
 
@@ -85,4 +49,41 @@ I'm the maintainer of some DDEV's add-ons:
 
 <a href="https://github.com/ddev/github-action-add-on-test">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ddev&repo=github-action-add-on-test&theme=algolia"/>
+</a>
+
+
+
+### 📈 Some Stats
+
+If you like numbers, here are some of them.
+
+<!--START_SECTION:waka-->
+📊 **This Week I Spent My Time On**
+
+```text
+🕑︎ Time Zone: Asia/Tokyo
+
+💬 Programming Languages: 
+Python                   6 hrs 38 mins       ██████████░░░░░░░░░░░░░░░   40.57 % 
+JavaScript               2 hrs 43 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.67 % 
+YAML                     2 hrs 16 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.95 % 
+Markdown                 1 hr 58 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.07 % 
+Shell Script             1 hr 4 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   06.57 % 
+
+🔥 Editors: 
+PyCharm                  10 hrs 21 mins      ████████████████░░░░░░░░░   63.37 % 
+PhpStorm                 3 hrs 9 mins        █████░░░░░░░░░░░░░░░░░░░░   19.28 % 
+VS Code                  2 hrs 50 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.35 % 
+
+💻 Operating System: 
+Linux                    13 hrs 30 mins      █████████████████████░░░░   82.65 % 
+Mac                      2 hrs 50 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.35 % 
+```
+
+
+Last Updated on 16/02/2024 07:35:56 UTC
+<!--END_SECTION:waka-->
+
+<a href="https://wakatime.com/@okaeli">
+  <img align="center" src="https://github-readme-stats-julien-loizelets-projects.vercel.app/api/wakatime?username=okaeli&layout=compact&theme=github_dark" />
 </a>
