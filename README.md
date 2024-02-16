@@ -5,9 +5,11 @@ I'm Julien, a passionate software engineer and open-source contributor.
 
 ### 🔧 Open sources projects I'm part of
 
-#### CrowdSec
+---
 
-[CrowdSec](https://www.crowdsec.net/) is an open source & collaborative security suite. 
+> [CrowdSec](https://www.crowdsec.net/) is an open source & collaborative security suite. 
+
+---
 
 I contribute, sometimes even as main maintainer, to some of their projects:
 
@@ -27,11 +29,13 @@ I contribute, sometimes even as main maintainer, to some of their projects:
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=crowdsecurity&repo=cs-wordpress-bouncer&theme=algolia"/>
 </a>
 
+---
 
 
-#### DDEV
+> [DDEV](https://ddev.readthedocs.io/en/stable/) is an open source tool for launching local web development 
+> environments in minutes.
 
-[DDEV](https://ddev.readthedocs.io/en/stable/) is an open source tool for launching local web development environments in minutes.
+---
 
 I'm the maintainer of some DDEV's add-ons:
 
@@ -51,7 +55,7 @@ I'm the maintainer of some DDEV's add-ons:
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ddev&repo=github-action-add-on-test&theme=algolia"/>
 </a>
 
-
+---
 
 ### 📈 Some Stats
 
