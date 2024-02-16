@@ -40,12 +40,10 @@ username=crowdsecurity&repo=cs-magento-bouncer&theme=github_dark"/>
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=crowdsecurity&repo=magento-cs-extension&theme=github_dark"/>
 </a>
 
-
 <a href="https://github.com/crowdsecurity/cs-whm-plugin">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?
 username=crowdsecurity&repo=cs-whm-plugin&theme=github_dark"/>
 </a>
-
 
 
 ---
