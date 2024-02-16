@@ -90,7 +90,7 @@ Dockerfile               1 repo              █░░░░░░░░░░�
   <img align="center" src="https://github-readme-stats-julien-loizelets-projects.vercel.app/api/wakatime?username=okaeli&layout=compact&theme=github_dark" />
 </a>
 
-### Open sources projects I'm part of
+### 🔧 Open sources projects I'm part of
 
 #### CrowdSec
 
