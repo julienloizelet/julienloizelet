@@ -58,7 +58,7 @@ I'm the maintainer of some DDEV's add-ons:
 If you like numbers, here are some of them.
 
 <!--START_SECTION:waka-->
-📊 **This Week I Spent My Time On**
+📊 **This Week I Spent My Time On** 
 
 ```text
 🕑︎ Time Zone: Asia/Tokyo
@@ -81,7 +81,6 @@ Mac                      2 hrs 50 mins       ████░░░░░░░�
 ```
 
 
-Last Updated on 16/02/2024 07:35:56 UTC
 <!--END_SECTION:waka-->
 
 <a href="https://wakatime.com/@okaeli" style="width:100%;text-align: center; display: block;">
