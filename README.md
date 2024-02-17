@@ -51,11 +51,14 @@ I'm the maintainer of some DDEV's add-ons:
 
 
 
-| [![DDEV Playwright add-on](https://github-readme-stats.vercel.app/api/pin/?username=julienloizelet&repo=ddev-playwright&theme=github_dark_dimmed 'ddev playwright')](https://github.com/julienloizelet/ddev-playwright) |                        [![DDEV Mongo add-on](https://github-readme-stats.vercel.app/api/pin/?username=ddev&repo=ddev-mongo&theme=github_dark_dimmed 'ddev mongo')](https://github.com/ddev/ddev-mongo)                        |
-|:-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|:-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|
-| [![DDEV Redis commander add-on](https://github-readme-stats.vercel.app/api/pin/?username=ddev&repo=ddev-redis-commander&theme=github_dark_dimmed 'ddev redis commander')](https://github.com/ddev/ddev-redis-commander) | [![DDEV Github action add-on](https://github-readme-stats.vercel.app/api/pin/?username=ddev&repo=github-action-add-on-test&theme=github_dark_dimmed 'ddev github action')](https://github.com/ddev/github-action-add-on-test) |
+[![DDEV Playwright add-on](https://github-readme-stats.vercel.app/api/pin/?username=julienloizelet&repo=ddev-playwright&theme=github_dark_dimmed 'ddev playwright')](https://github.com/julienloizelet/ddev-playwright)
+
+[![DDEV Mongo add-on](https://github-readme-stats.vercel.app/api/pin/?username=ddev&repo=ddev-mongo&theme=github_dark_dimmed 'ddev mongo')](https://github.com/ddev/ddev-mongo)
 
 
+[![DDEV Redis commander add-on](https://github-readme-stats.vercel.app/api/pin/?username=ddev&repo=ddev-redis-commander&theme=github_dark_dimmed 'ddev redis commander')](https://github.com/ddev/ddev-redis-commander)
+
+[![DDEV Github action add-on](https://github-readme-stats.vercel.app/api/pin/?username=ddev&repo=github-action-add-on-test&theme=github_dark_dimmed 'ddev github action')](https://github.com/ddev/github-action-add-on-test)
 
 ---
 
