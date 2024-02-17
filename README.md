@@ -73,4 +73,4 @@ Mac                      2 hrs 50 mins       ██████░░░░░�
 
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=julienloizelet&show_icons=true&include_all_commits=true&theme=github_dark_dimmed&rank_icon=github 'github stats')
-[![Wakatime stats](https://github-readme-stats-julien-loizelets-projects.vercel.app/api/wakatime?username=okaeli&theme=github_dark_dimmed 'wakatime')](https://wakatime.com/@okaeli)
+[![Wakatime stats](https://github-readme-stats-julien-loizelets-projects.vercel.app/api/wakatime?username=okaeli&theme=github_dark_dimmed&custom_title=Programming%20Languages%20Stats&disable_animations=true 'wakatime')](https://wakatime.com/@okaeli)
