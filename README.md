@@ -3,11 +3,11 @@
 I'm Julien, a passionate software engineer and open-source contributor. 
 
 
-### 🔧 Open sources projects I'm part of
+### 🔧 Open-sources projects I'm part of
 
 ---
 
-> [CrowdSec](https://www.crowdsec.net/) is an open source & collaborative security suite. 
+> [CrowdSec](https://www.crowdsec.net/) is an open-source & collaborative security suite. 
 
 ---
 
@@ -25,7 +25,7 @@ I contribute, sometimes even as main maintainer, to some of their projects:
 ---
 
 
-> [DDEV](https://ddev.readthedocs.io/en/stable/) is an open source tool for launching local web development 
+> [DDEV](https://ddev.readthedocs.io/en/stable/) is an open-source tool for launching local web development 
 > environments in minutes.
 
 ---
