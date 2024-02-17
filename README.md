@@ -71,6 +71,6 @@ Mac                      2 hrs 50 mins       ██████░░░░░�
 
 <!--END_SECTION:waka-->
 
-<a href="https://wakatime.com/@okaeli">
-  <img align="center" src="https://github-readme-stats-julien-loizelets-projects.vercel.app/api/wakatime?username=okaeli&theme=github_dark_dimmed" />
-</a>
+
+![Github stats](https://github-readme-stats.vercel.app/api?username=julienloizelet&show_icons=true&include_all_commits=true&theme=github_dark_dimmed&rank_icon=github 'github stats')
+[![Wakatime stats](https://github-readme-stats-julien-loizelets-projects.vercel.app/api/wakatime?username=okaeli&theme=github_dark_dimmed 'wakatime')](https://wakatime.com/@okaeli)
