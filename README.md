@@ -3,7 +3,7 @@
 I'm Julien, a passionate software engineer and open-source contributor. 
 
 
-### 🔧 Open-sources projects I'm part of
+### 🔧 Open-source projects
 
 ---
 
@@ -11,7 +11,7 @@ I'm Julien, a passionate software engineer and open-source contributor.
 
 ---
 
-I contribute, sometimes even as main maintainer, to some of their projects:
+I take on the role of lead maintainer for a few of their projects:
 
 
 
