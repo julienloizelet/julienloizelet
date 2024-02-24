@@ -30,7 +30,7 @@ I take on the role of lead maintainer for a few of their projects:
 
 ---
 
-I maintain several DDEV add-ons, both from their official collection and independent ones related to DDEV:
+I maintain several DDEV add-ons, both from their official collection and independent ones:
 
 
 
