@@ -40,28 +40,3 @@ If you like numbers, here are some of them.
 ![Github stats](https://github-readme-stats.vercel.app/api?username=julienloizelet&show_icons=true&include_all_commits=true&theme=github_dark_dimmed&rank_icon=github "github stats")
 [![Wakatime stats](https://github-readme-stats-julien-loizelets-projects.vercel.app/api/wakatime?username=okaeli&theme=github_dark_dimmed&langs_count=10&custom_title=Programming%20Languages%20Stats&disable_animations=true&display_format=percent&hide=textmate,text,other,smartyconfig)](https://wakatime.com/@okaeli)
 
-<!--START_SECTION:waka-->
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Tokyo
-
-💬 Programming Languages: 
-JavaScript               12 hrs 49 mins      ██████████░░░░░░░░░░░░░░░   40.95 % 
-TypeScript               11 hrs 32 mins      █████████░░░░░░░░░░░░░░░░   36.87 % 
-YAML                     1 hr 48 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.77 % 
-PHP                      1 hr 42 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.45 % 
-HTML                     1 hr 2 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.32 % 
-
-🔥 Editors: 
-PyCharm                  15 hrs 3 mins       ████████████░░░░░░░░░░░░░   48.07 % 
-VS Code                  13 hrs 3 mins       ██████████░░░░░░░░░░░░░░░   41.68 % 
-PhpStorm                 3 hrs 12 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.25 % 
-
-💻 Operating System: 
-Linux                    18 hrs 15 mins      ███████████████░░░░░░░░░░   58.32 % 
-Mac                      13 hrs 3 mins       ██████████░░░░░░░░░░░░░░░   41.68 % 
-```
-
-
-<!--END_SECTION:waka-->
