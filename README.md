@@ -13,9 +13,9 @@ I'm Julien, a passionate software engineer and open-source contributor.
 I take on the role of lead maintainer for a few of their projects:
 
 [![Crowdsec Wordpress bouncer](https://github-readme-stats.vercel.app/api/pin/?username=crowdsecurity&repo=cs-wordpress-bouncer&theme=github_dark_dimmed "crowdsec cs-wordpress-bouncer")](https://github.com/crowdsecurity/cs-wordpress-bouncer)
-[![Crowdsec Magento bouncer](https://github-readme-stats.vercel.app/api/pin/?username=crowdsecurity&repo=cs-magento-bouncer&theme=github_dark_dimmed "crowdsec cs-magento-bouncer")](https://github.com/crowdsecurity/cs-magento-bouncer)
+[![Crowdsec CAPI Python SDK](https://github-readme-stats.vercel.app/api/pin/?username=crowdsecurity&repo=python-capi-sdk&theme=github_dark_dimmed "crowdsec python-capi-sdk")](https://github.com/crowdsecurity/python-capi-sdk)
 [![Crowdsec PHP lib](https://github-readme-stats.vercel.app/api/pin/?username=crowdsecurity&repo=php-cs-bouncer&theme=github_dark_dimmed "crowdsec php lib")](https://github.com/crowdsecurity/php-cs-bouncer)
-[![Crowdsec PHP Satndalone bouncer](https://github-readme-stats.vercel.app/api/pin/?username=crowdsecurity&repo=cs-standalone-php-bouncer&theme=github_dark_dimmed "crowdsec standalone php bouncer")](https://github.com/crowdsecurity/cs-standalone-php-bouncer)
+[![Crowdsec PHP Standalone bouncer](https://github-readme-stats.vercel.app/api/pin/?username=crowdsecurity&repo=cs-standalone-php-bouncer&theme=github_dark_dimmed "crowdsec standalone php bouncer")](https://github.com/crowdsecurity/cs-standalone-php-bouncer)
 
 ---
 
