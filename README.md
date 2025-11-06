@@ -38,5 +38,5 @@ I maintain several DDEV add-ons, both from their official collection and indepen
 If you like numbers, here are some of them.
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=julienloizelet&show_icons=true&include_all_commits=true&theme=github_dark_dimmed&rank_icon=github "github stats")
-[![Wakatime stats](https://github-readme-stats-julien-loizelets-projects.vercel.app/api/wakatime?username=okaeli&theme=github_dark_dimmed&langs_count=10&custom_title=Programming%20Languages%20Stats&disable_animations=true&display_format=percent&hide=textmate,text,other,smartyconfig)](https://wakatime.com/@okaeli)
+
 
