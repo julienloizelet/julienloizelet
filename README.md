@@ -19,7 +19,7 @@ I take on the role of lead maintainer for a few of their projects:
 
 ---
 
-> [DDEV](https://ddev.readthedocs.io/en/stable/) is an open-source tool for launching local web development
+> [DDEV](https://docs.ddev.com/en/stable/) is an open-source tool for launching local web development
 > environments in minutes.
 
 ---
